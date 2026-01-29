@@ -29,3 +29,6 @@ Admin
 user: admin
 pass: password
 
+screen shots
+
+![alt text](image.png)

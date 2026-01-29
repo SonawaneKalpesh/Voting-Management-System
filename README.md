@@ -26,7 +26,7 @@ FIRST Download
 **LOGIN DETAILS** 
 
 Admin
-user: admin
+user: admin <br>
 pass: password
 
 screen shots
